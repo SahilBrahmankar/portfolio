@@ -14,7 +14,7 @@ export const profile = {
   phone: '+91-7972640500',
   linkedin: 'https://linkedin.com/in/sahil-brahmankar',
   github: 'https://github.com/SahilBrahmankar',
-  resumePath: '/resume.pdf',
+  resumePath: 'https://sahilbrahmankar.github.io/portfolio/resume.pdf',
   meta: {
     role: 'AI Engineer',
     focus: 'LLM · RAG · Agents',
