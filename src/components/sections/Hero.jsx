@@ -61,7 +61,9 @@ export function Hero() {
             <MagneticButton
               as="a"
               href={profile.resumePath}
-              download
+              download="Sahil_Brahmankar_Resume.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
               className="shrink-0 px-4 sm:px-5 py-2.5 rounded-full border border-white/15 text-sm font-medium hover:border-[var(--color-accent)]/50 transition"
               data-cursor="button"
             >

@@ -40,7 +40,9 @@ export function Contact() {
           <MagneticButton
             as="a"
             href={profile.resumePath}
-            download
+            download="Sahil_Brahmankar_Resume.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
             className="px-8 py-4 rounded-full border border-white/15 font-medium"
             data-cursor="button"
           >
