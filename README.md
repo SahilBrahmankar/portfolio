@@ -1,3 +1,4 @@
+HEAD
 # Sahil Brahmankar — AI Engineer Portfolio
 
 Premium interactive portfolio built with React, Vite, Tailwind CSS, Framer Motion, GSAP, and Lenis.
@@ -56,3 +57,6 @@ Edit structured data in `src/data/`:
 ## Deploy
 
 Deploy the `dist` folder to Vercel, Netlify, Cloudflare Pages, or GitHub Pages (with SPA fallback).
+
+# portfolio
+origin/main
