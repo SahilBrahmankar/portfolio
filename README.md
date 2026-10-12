@@ -1,4 +1,3 @@
-HEAD
 # Sahil Brahmankar — AI Engineer Portfolio
 
 Premium interactive portfolio built with React, Vite, Tailwind CSS, Framer Motion, GSAP, and Lenis.
