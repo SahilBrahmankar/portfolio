@@ -38,10 +38,6 @@ npm run build
 npm run preview
 ```
 
-## Resume PDF
-
-Place your resume at **`public/resume.pdf`**. All “Download Resume” buttons link to `/resume.pdf`.
-
 ## Update content
 
 Edit structured data in `src/data/`:
@@ -53,9 +49,3 @@ Edit structured data in `src/data/`:
 - `education.js` — degree
 - `certifications.js` — credentials
 
-## Deploy
-
-Deploy the `dist` folder to Vercel, Netlify, Cloudflare Pages, or GitHub Pages (with SPA fallback).
-
-# portfolio
-origin/main
